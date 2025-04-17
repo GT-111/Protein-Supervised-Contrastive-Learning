@@ -4,3 +4,4 @@ data/*
 *.txt
 *.pdf
 *.pt
+__pycache__
